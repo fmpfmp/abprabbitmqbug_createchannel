@@ -22,7 +22,17 @@ namespace WorkerService2
 			context.Services.AddHostedService<HostedService7>();
 			context.Services.AddHostedService<HostedService8>();
 			context.Services.AddHostedService<HostedService9>();
-			context.Services.AddHostedService<HostedService0>();
+			context.Services.AddHostedService<HostedService0>(); 
+			context.Services.AddHostedService<HostedService11>();
+			context.Services.AddHostedService<HostedService12>();
+			context.Services.AddHostedService<HostedService13>();
+			context.Services.AddHostedService<HostedService14>();
+			context.Services.AddHostedService<HostedService15>();
+			context.Services.AddHostedService<HostedService16>();
+			context.Services.AddHostedService<HostedService17>();
+			context.Services.AddHostedService<HostedService18>();
+			context.Services.AddHostedService<HostedService19>();
+			context.Services.AddHostedService<HostedService20>();
 		}
 
 		public override void OnApplicationInitialization(ApplicationInitializationContext context)

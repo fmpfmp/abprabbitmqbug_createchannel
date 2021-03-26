@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FMP\\source\\repos\\WorkerService2\\WorkerService2.csproj": {}
+    "C:\\Users\\FMP\\source\\repos\\WorkerService2\\abprabbitmqbug_createchannel\\WorkerService2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FMP\\source\\repos\\WorkerService2\\WorkerService2.csproj": {
+    "C:\\Users\\FMP\\source\\repos\\WorkerService2\\abprabbitmqbug_createchannel\\WorkerService2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FMP\\source\\repos\\WorkerService2\\WorkerService2.csproj",
+        "projectUniqueName": "C:\\Users\\FMP\\source\\repos\\WorkerService2\\abprabbitmqbug_createchannel\\WorkerService2.csproj",
         "projectName": "WorkerService2",
-        "projectPath": "C:\\Users\\FMP\\source\\repos\\WorkerService2\\WorkerService2.csproj",
+        "projectPath": "C:\\Users\\FMP\\source\\repos\\WorkerService2\\abprabbitmqbug_createchannel\\WorkerService2.csproj",
         "packagesPath": "G:\\nuget\\packages",
-        "outputPath": "C:\\Users\\FMP\\source\\repos\\WorkerService2\\obj\\",
+        "outputPath": "C:\\Users\\FMP\\source\\repos\\WorkerService2\\abprabbitmqbug_createchannel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,6 +52,10 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.9, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
             },
             "Volo.Abp.AspNetCore.Mvc": {
               "target": "Package",
